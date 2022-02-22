@@ -1,0 +1,20 @@
+.navbar {
+  font-family: "Sarabun", sans-serif;
+}
+
+h1,h2,h3,h4,h5,ul,p {
+  font-family: "Sarabun", sans-serif;
+}
+
+.navbar-brand,nav-link active{
+  font-family: "Sarabun", sans-serif;
+}
+
+.underline{
+  width: 140px;
+  height: 6px;
+  background-color: rebeccapurple;
+}
+.form-label,.btn{
+  font-family: "Sarabun", sans-serif;
+}
